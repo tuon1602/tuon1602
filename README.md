@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://i.pinimg.com/564x/d9/83/b3/d983b3fe74e7f4d136215f0f3c58eac1.jpg)
+
 <!--
 **tuon1602/tuon1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
