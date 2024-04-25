@@ -1,5 +1,7 @@
 ### Hi there 👋 
 ### I'm still farming projects 🧑‍🌾
+### My Current Stacks
+- Nextjs Tailwind Mongodb ( prostgress ) Prisma 
 
 <img src="https://i.pinimg.com/564x/d9/83/b3/d983b3fe74e7f4d136215f0f3c58eac1.jpg" width="300" height="400"/>
 <!--
